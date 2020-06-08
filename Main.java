@@ -1,6 +1,4 @@
 import view.MainWindow;
-//import com.company.model.functions.TripledXFunction;
-//import com.company.view.MainWindow;
 import functions.TripledXFunction;
 
 
